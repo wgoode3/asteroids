@@ -1,0 +1,22 @@
+#game {
+    width: 800px;
+    height: 600px;
+    background-color: #111;
+    position: relative;
+    overflow: hidden;
+}
+
+#player {
+    width: 25px;
+    height: 25px;
+    background-color: magenta;
+    position: absolute;
+}
+
+#rock {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: cyan;   
+}
